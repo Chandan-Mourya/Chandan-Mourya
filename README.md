@@ -28,7 +28,7 @@ When we strive to become better than we are, everything around us becomes better
 
 - 👨‍💻 All of my projects are available at [Explore](https://Chandan-Mourya.netlify.app/)
 
-- 📝 I regularly write articles on [Medium - chandanmourya4786](https://medium.com/@chandanmourya4786)
+- 📝 I  write articles on [Medium - chandanmourya4786](https://medium.com/@chandanmourya4786)
 
 - 💬 Ask me about **Android Developement and security**
 
