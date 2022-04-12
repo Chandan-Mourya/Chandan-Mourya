@@ -1,6 +1,6 @@
 <h1 align="left">Hello こんにちは</h1>
 
-![Android Development, System Design and Security](https://pbs.twimg.com/profile_banners/896716983449903105/1610970894/1080x360)
+![Android Development, System Design and Security](https://media-exp1.licdn.com/dms/image/C4E16AQGGL2wpixjQtA/profile-displaybackgroundimage-shrink_350_1400/0/1646464729896?e=1655337600&v=beta&t=isbVT6DvWJqEdTns-s1N8o72kIbnugMFoWxK-6BbGPc)
 
 I'm Chandan Mourya 👨‍🎓 and I have completed my graduation in Bachelor of Computer Science from University of Mumbai 🏫 - 2021 
 
@@ -15,7 +15,7 @@ Overcome Distractions and focus. One hour of deep, uninterrupted work is more va
 When we strive to become better than we are, everything around us becomes better too.
 
 
-<p align="left"> <img src="https://media-exp1.licdn.com/dms/image/C4D1BAQHgVbml3WKvPA/company-background_10000/0/1577378330448?e=2147483647&v=beta&t=z99B1_ZSdGOr4Be6g5cYsQ8KiHrGVH58744Iq76Kq0k" alt="Chandan-Mourya" /> </p>
+<!-- <p align="left"> <img src="https://media-exp1.licdn.com/dms/image/C4D1BAQHgVbml3WKvPA/company-background_10000/0/1577378330448?e=2147483647&v=beta&t=z99B1_ZSdGOr4Be6g5cYsQ8KiHrGVH58744Iq76Kq0k" alt="Chandan-Mourya" /> </p> -->
 
 
 - 🔭 I’m currently working on [DSA] (https://leetcode.com/Chandanmourya/)
