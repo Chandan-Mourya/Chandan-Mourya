@@ -18,7 +18,7 @@ When we strive to become better than we are, everything around us becomes better
 <!-- <p align="left"> <img src="https://media-exp1.licdn.com/dms/image/C4D1BAQHgVbml3WKvPA/company-background_10000/0/1577378330448?e=2147483647&v=beta&t=z99B1_ZSdGOr4Be6g5cYsQ8KiHrGVH58744Iq76Kq0k" alt="Chandan-Mourya" /> </p> -->
 
 
-- 🔭 I’m currently working on [DSA] (https://leetcode.com/chandanmourya4786/)
+- 🔭 I’m currently working on [DSA](https://leetcode.com/chandanmourya4786/)
 
 - 🌱 I’m currently learning **Android**
 
