@@ -42,6 +42,7 @@ When we strive to become better than we are, everything around us becomes better
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_Prem_mourya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Prem_mourya" height="30" width="40" /></a>
+<a href="https://twitter.com/anmolcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prem mourya" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chandan-mourya-359323230/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chandan-mourya-359323230/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_prem_mourya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_prem_mourya" height="30" width="40" /></a>
 <a href="https://medium.com/@chandanmourya4786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kingbond470" height="30" width="40" /></a>
