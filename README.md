@@ -71,7 +71,7 @@ When we strive to become better than we are, everything around us becomes better
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <!-- <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  -->
 </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chandan-Mourya&show_icons=true&locale=en&layout=compact" alt="anmolroan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chandan-Mourya&show_icons=true&locale=en" alt="Chandan-Mourya" /></p>
 
