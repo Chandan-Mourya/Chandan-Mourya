@@ -1,6 +1,7 @@
 <h1 align="left">Hello こんにちは</h1>
 
-![Android Development, System Design and Security](https://ychef.files.bbci.co.uk/976x549/p05bcxt5.jpg)
+![Web Development, System Design and Security]
+<img align="right" alt="Coding" width="500"     margin-radius="20" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif">
 
 I'm Chandan Mourya 👨‍🎓 and I have completed my graduation in Bachelor of Computer Science from University of Mumbai 🏫 - 2021 
 
