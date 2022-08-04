@@ -28,7 +28,7 @@ When we strive to become better than we are, everything around us becomes better
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [Explore](hhttps://app.netlify.com/teams/chandan-mourya/sites)
+- 👨‍💻 All of my projects are available at [Explore](https://app.netlify.com/teams/chandan-mourya/sites)
 
 - 📝 I  write articles on [Medium - chandanmourya4786](https://medium.com/@chandanmourya4786)
 
