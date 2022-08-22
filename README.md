@@ -86,3 +86,26 @@ When we strive to become better than we are, everything around us becomes better
 <!-- <img src="https://github.com/Kingbond470/Android-Practice/blob/main/MoveOnPlaystore/stats_github.png" /> -->
 
 <!-- <a href="https://www.buymeacoffee.com/Chandan-Mourya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a> -->
+<!--  -------------------------------------------------------------------------------------------- -->
+<div align="center">
+<p><summary>🔥 Streak stats</summary></p>
+<p>
+    <img title="Streak stats" alt="Chandan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan-Mourya&theme=monokai-metallian&hide_border=true"/>
+</p>
+
+  
+</p>
+</div>
+
+
+<!-- GIT stats -->
+
+<div align="center">
+  <a href="https://github.com/Chandan-Mourya">
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=Chandan-Mourya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-Mourya&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+<h1 align="center"> Thank You ❤</h1>
