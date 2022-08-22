@@ -49,7 +49,11 @@ When we strive to become better than we are, everything around us becomes better
 <a href="https://medium.com/@chandanmourya4786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kingbond470" height="30" width="40" /></a>
 </p>
 
+
+
+
 <h3 align="left">Languages and Tools:</h3>
+![Teck Stack](https://user-images.githubusercontent.com/81063456/169705256-ad8945ba-0b55-4c23-aad9-822dd97e3d4b.png)
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="30" height="30"/>  -->
