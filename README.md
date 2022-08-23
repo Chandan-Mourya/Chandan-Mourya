@@ -17,7 +17,7 @@
 
 <h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandan-Mourya&label=Profile%20views&color=0e75b6&style=flat" alt="anmolroan" /> </p></h3>
 <h4>
-- 🔭 I’m currently working on [DSA](https://leetcode.com/chandanmourya4786/)
+- 🔭 I’m currently working on [DSA](https://leetcode.com/chandanmourya4786)
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -51,7 +51,7 @@
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" 
              alt="https://twitter.com/_Prem_mourya" />
     </a>
-    <a href="https://mohit-portfolio.vercel.app/">
+    <a href="https://chandan-mourya.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
     </a>
     <a title="chandanmourya" href="mailto:chandanmourya4786@gmail.com">
