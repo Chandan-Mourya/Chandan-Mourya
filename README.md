@@ -38,14 +38,28 @@
    
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!----------------------------------- Social Media Links Section ------------------------------------>
 
-<a href="https://twitter.com/anmolcoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prem mourya" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chandan-mourya-359323230/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chandan-mourya-359323230/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_prem_mourya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_prem_mourya" height="30" width="40" /></a>
-<a href="https://medium.com/@chandanmourya4786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kingbond470" height="30" width="40" /></a>
+<h2><i>Let's Connect</i></h2>
+
+
+<p align="left">
+    <a href="https://linkedin.com/in/m-sehrawat">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/chandan-mourya-359323230/" />
+    </a>
+    <a href="https://twitter.com/MohitSehrawatt">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" 
+             alt="https://twitter.com/_Prem_mourya" />
+    </a>
+    <a href="https://mohit-portfolio.vercel.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
+    </a>
+    <a title="chandanmourya" href="mailto:chandanmourya4786@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chandanmourya4786@gmail.com" />
+    </a>
 </p>
+<br>
+
 
 
 
