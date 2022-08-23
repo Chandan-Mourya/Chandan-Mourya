@@ -2,12 +2,16 @@
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
-    Hi
+   
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Chandan Mourya
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 <!----------------------------------------------------------------------------------------------->
+<h3>
+    <i>Ambitious Java Developer, Collaborative and team supportive person who is proficient in working with inter-disciplinary teams and executing goal-oriented projects. Looking forward to make a significant contribution to a IT company through dedicated effort and use of my skill set...</i>
+</h3>
+
 
 <!-- <p align="left"> <img src="https://media-exp1.licdn.com/dms/image/C4D1BAQHgVbml3WKvPA/company-background_10000/0/1577378330448?e=2147483647&v=beta&t=z99B1_ZSdGOr4Be6g5cYsQ8KiHrGVH58744Iq76Kq0k" alt="Chandan-Mourya" /> </p> -->
 
