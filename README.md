@@ -32,10 +32,10 @@
 - 💬 Ask me about **Web Developement and security**
 
 - ⚡ Fun fact **Code and Anime**
-
+</h4>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chandan-Mourya&no-frame=true&margin-w=35&theme=buddhism" alt="Chandan-Mourya" /></a> </p>
 
-   </h4>
+   
 
 
 <h3 align="left">Connect with me:</h3>
