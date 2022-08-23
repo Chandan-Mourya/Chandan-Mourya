@@ -16,7 +16,7 @@
 <!-- <p align="left"> <img src="https://media-exp1.licdn.com/dms/image/C4D1BAQHgVbml3WKvPA/company-background_10000/0/1577378330448?e=2147483647&v=beta&t=z99B1_ZSdGOr4Be6g5cYsQ8KiHrGVH58744Iq76Kq0k" alt="Chandan-Mourya" /> </p> -->
 
 <h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandan-Mourya&label=Profile%20views&color=0e75b6&style=flat" alt="anmolroan" /> </p></h3>
-
+<h4>
 - 🔭 I’m currently working on [DSA](https://leetcode.com/chandanmourya4786/)
 
 - 🌱 I’m currently learning **Web Development**
@@ -35,6 +35,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chandan-Mourya&no-frame=true&margin-w=35&theme=buddhism" alt="Chandan-Mourya" /></a> </p>
 
+   </h4>
 
 
 <h3 align="left">Connect with me:</h3>
