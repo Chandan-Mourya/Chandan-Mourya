@@ -1,20 +1,13 @@
 <h1 align="left">Hello こんにちは</h1>
 
-![Web Development, System Design and Security]
-<img align="right" alt="Coding" width="500"     margin-radius="20" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif">
-
-I'm Chandan Mourya 👨‍🎓 and I have completed my graduation in Bachelor of Computer Science from University of Mumbai 🏫 - 2021 
-
-The things that I love most are writing code and learning about new technology. Most of the time, I believe in writing ✍️ for self-reflection and reading for self-development 📚 
-I enjoy implementing ideas into impactful projects using new technology, this curiosity has enabled me to learn Web Frontend and Android development, Data Structure & Algorithm. I like to work with teams of dedicated people. 
-
-In my free time, while I'm not coding, I enjoy playing sports, video games 👾 and watching anime.
-I'm looking to obtain a position that allows for the application of system design skills, support abilities, and critical thinking to produce software that meets the goals and objectives outlined by the user.
-
-If you have a dream 🎯, then you also have work to do.
-Overcome Distractions and focus. One hour of deep, uninterrupted work is more valuable than an entire day of giving half the effort.
-When we strive to become better than we are, everything around us becomes better too.
-
+<!----------------------------------- Heading Section ------------------------------------>
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Mohit Sehrawat
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
+<!----------------------------------------------------------------------------------------------->
 
 <!-- <p align="left"> <img src="https://media-exp1.licdn.com/dms/image/C4D1BAQHgVbml3WKvPA/company-background_10000/0/1577378330448?e=2147483647&v=beta&t=z99B1_ZSdGOr4Be6g5cYsQ8KiHrGVH58744Iq76Kq0k" alt="Chandan-Mourya" /> </p> -->
 
