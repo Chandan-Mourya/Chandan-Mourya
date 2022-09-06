@@ -101,7 +101,7 @@
   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=Chandan-Mourya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       
   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-Mourya&layout=compact&langs_count=7&theme=dracula"/>
-     <img src="https://activity-graph.herokuapp.com/graph?username=Chandan-Mourya&theme=xcode">
+     <img src="https://activity-graph.herokuapp.com/graph?username=Chandan-Mourya&theme=dracula">
 </div>
 
 
